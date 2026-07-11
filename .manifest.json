@@ -26,6 +26,57 @@
       "pages_created": [],
       "pages_updated": [],
       "note": "trivial/empty session (2 turns, 3 words) — sampled and skipped, no content to distill"
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\나의 소개.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": ["entities/user-profile.md"],
+      "pages_updated": []
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\000-Inbox\\테스트- Anthropic과 OpenAI의 사용 정책(usage policy) 핵심 차이 비교_2026-07-06.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": ["synthesis/anthropic-vs-openai-usage-policy.md"],
+      "pages_updated": []
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\comparisons\\note-wiki-anthropic-openai-usage-policy.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": [],
+      "pages_updated": ["synthesis/anthropic-vs-openai-usage-policy.md"]
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\queries\\note-wiki-anthropic-openai-usage-policy-checklist.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": [],
+      "pages_updated": ["synthesis/anthropic-vs-openai-usage-policy.md"],
+      "note": "checklist section was empty in the original — nothing to add"
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\raw\\articles\\notebooklm-note-wiki-anthropic-openai-usage-policy-report-2026-07-06.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": ["references/anthropic-usage-policy-study-guide.md"],
+      "pages_updated": []
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\raw\\articles\\note-wiki-anthropic-openai-usage-policy-sources-2026-07-06.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": [],
+      "pages_updated": ["synthesis/anthropic-vs-openai-usage-policy.md"],
+      "note": "URL/source pack only — OpenAI side was never actually researched"
+    },
+    "C:\\Users\\yeonr\\Documents\\01-문서1\\23-01_LLMWiki-PSY\\LLMWiki-PSY\\Clippings\\Obsidian-LLM-Wiki 초보자 설치부터 사용까지 2026-07-07T160225+0900.md": {
+      "ingested_at": "2026-07-12T03:05:00Z",
+      "source_type": "vault_migration",
+      "project": "llmwikipsy",
+      "pages_created": ["references/obsidian-llm-wiki-beginner-setup-guide.md"],
+      "pages_updated": []
     }
   },
   "projects": {
