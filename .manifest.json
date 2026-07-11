@@ -1,0 +1,53 @@
+{
+  "sources": {
+    "C:\\Users\\yeonr\\.claude\\projects\\C--Users-yeonr-Documents-01---1-23-01-LLMWiki-PSY-LLMWiki-PSY\\memory\\nlwflow-hermes-install.md": {
+      "ingested_at": "2026-07-12T02:15:00Z",
+      "source_type": "claude_memory",
+      "project": "llmwikipsy",
+      "pages_created": [
+        "entities/nlwflow-notebooklm-llm-wiki-flow.md",
+        "projects/llmwikipsy/llmwikipsy.md"
+      ],
+      "pages_updated": []
+    },
+    "C:\\Users\\yeonr\\.claude\\projects\\C--Users-yeonr-Documents-01---1-23-01-LLMWiki-PSY-LLMWiki-PSY\\memory\\windows-korean-locale-python-encoding.md": {
+      "ingested_at": "2026-07-12T02:15:00Z",
+      "source_type": "claude_memory",
+      "project": "llmwikipsy",
+      "pages_created": [
+        "skills/windows-korean-locale-python-cli-install.md"
+      ],
+      "pages_updated": []
+    },
+    "C:\\Users\\yeonr\\.claude\\projects\\C--Users-yeonr\\10792856-6ea3-43d1-9c2d-7ee3bdda3ec4.jsonl": {
+      "ingested_at": "2026-07-12T02:15:00Z",
+      "source_type": "claude_conversation",
+      "project": "home",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "trivial/empty session (2 turns, 3 words) — sampled and skipped, no content to distill"
+    }
+  },
+  "projects": {
+    "llmwikipsy": {
+      "source_path": "~/.claude/projects/C--Users-yeonr-Documents-01---1-23-01-LLMWiki-PSY-LLMWiki-PSY",
+      "vault_path": "projects/llmwikipsy",
+      "last_ingested": "2026-07-12T02:15:00Z",
+      "conversations_ingested": 0,
+      "conversations_total": 1,
+      "memory_files_ingested": 2,
+      "desktop_sessions_ingested": 0,
+      "audit_logs_ingested": 0
+    },
+    "home": {
+      "source_path": "~/.claude/projects/C--Users-yeonr",
+      "vault_path": null,
+      "last_ingested": "2026-07-12T02:15:00Z",
+      "conversations_ingested": 0,
+      "conversations_total": 2,
+      "memory_files_ingested": 0,
+      "desktop_sessions_ingested": 0,
+      "audit_logs_ingested": 0
+    }
+  }
+}
